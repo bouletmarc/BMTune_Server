@@ -1,1 +1,8 @@
+B18B_Turbo_31Octobre2018.bin|B18B1, 1000cc, 12psi, T3/T4, 3Bar|Bouletmarc|Serie B|1.02
+B16_Shawn_BMTune.bin|B16A JDM 1991|Bouletmarc|Serie B|1.03
+Emulator Rom   test 440.bin|D15Z8 44CC STOCK INTERN |yoan fxy|Serie D|1.02
+4age20v_(antolin)_Converted.bin|ectune base|yoan fxy|Customs|1.02
+f20beg_Converted.bin|ectune file|yoan fxy|Serie F|1.02
+zc_stock_Converted.bin|ectune file|yoan fxy|Serie D|1.02
+D16Y7_2Step.bin|D16Y7 with 2Step|Bouletmarc|Serie D|1.02
 CRV_B20V.bin|B20 Vtec CRV|Bouletmarc|Serie B|1.02
