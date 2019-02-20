@@ -6,3 +6,4 @@ f20beg_Converted.bin|ectune file|yoan fxy|Serie F|1.02
 zc_stock_Converted.bin|ectune file|yoan fxy|Serie D|1.02
 D16Y7_2Step.bin|D16Y7 with 2Step|Bouletmarc|Serie D|1.02
 CRV_B20V.bin|B20 Vtec CRV|Bouletmarc|Serie B|1.02
+D15B_Duval_2Step.bin|D15B 2step (non-vtec)|Bouletmarc|Serie D|1.02
