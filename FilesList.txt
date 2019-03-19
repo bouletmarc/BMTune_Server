@@ -9,3 +9,4 @@ CRV_B20V.bin|B20 Vtec CRV|Bouletmarc|Serie B|1.02
 D15B_Duval_2Step.bin|D15B 2step (non-vtec)|Bouletmarc|Serie D|1.02
 CL1 BMTUNEh22ar.bin|CL1 Euro R IHE 218whp H22AR Fuel E10|bmgjet|Serie H|1.02
 00002ok.bin|B18C6 EDM Stock 180whp|FredericoAlmeida|Serie B|1.04
+BMTune H22A Blacktop.bin|96 spec H22A Blacktop Prelude|bmgjet|Serie H|1.02
