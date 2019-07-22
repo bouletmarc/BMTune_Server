@@ -21,3 +21,4 @@ Emulator Rom.bin JULIO 2.bin|montero 2.6l turbo |ANONYMOUS|Customs|1.09
 stock z6 with 2 step.bin2.bin|stock z6/y8 |ANONYMOUS|Serie D|1.09
 stock b20 e85 dsm injectors.bin| e85, 255lph fuel pump, dsm injectors|Federico Torres|Serie B|1.09
 Emulator Rom.bin|D16y8 .63 A/R t04e 550cc safe starting point.|awptickes|Serie D|1.09
+dodo_CRX2-1.4vtec.bin|crome file|yoan fxy|Serie D|1.10
